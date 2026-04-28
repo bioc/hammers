@@ -1,7 +1,7 @@
 Package: hammers
 Type: Package
 Title: Utilities for scRNA-seq data analysis
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: person('Andrei-Florian', 'Stoica', 
       email='andreistoica@foxmail.com',
      role=c('aut','cre'),
